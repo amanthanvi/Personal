@@ -10,5 +10,4 @@ public class BankAccount {
         customerAddress = address;
         customerBalance = balance;
     }
-
 }
