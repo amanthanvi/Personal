@@ -1,2 +1,2 @@
 # Java
-A collection of personal projects in Java.
+A collection of personal projects written in Java.
